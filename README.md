@@ -6,10 +6,9 @@ Built with **HTML**, **CSS**, and **JavaScript**, this project focuses on clean 
 ---
 
 ## 🚀 Live Demo
+👉 [Open the Weather App on Render](https://weather-app-unof.onrender.com/)
 
-👉 [View the Live App on Render](https://weather-app-wvj8.onrender.com)  
-*(Once deployed, this link will open your app hosted on Render)*
-
+---
 ---
 
 ## 🧠 Features
